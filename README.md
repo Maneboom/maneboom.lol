@@ -22,8 +22,7 @@ Our exploit gets updated every week even with a working injection to prevent det
 ## 🖥️ Install
 
 1. Go to the website
-   ```https://maneboom.lol/
-   ```
+   ```https://maneboom.lol/```
 
 2. Download the file
 
