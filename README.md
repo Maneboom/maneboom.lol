@@ -39,5 +39,7 @@ Our exploit gets updated every week even with a working injection to prevent det
 - **Database:** MySQL
 
 ---
+# > Join the discord for updates: https://discord.gg/7W6kE6yKDa
+---
 
 ![GUI](https://media.discordapp.net/attachments/1297406645781135370/1329977710302199838/image.png?ex=678ef0c3&is=678d9f43&hm=d18b4a4340b8f5205d4c671d3dad595e1d24de1f9fe2a1ff5f806a07d54ddd4a&=&format=webp&quality=lossless)
