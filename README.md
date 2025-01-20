@@ -1,4 +1,4 @@
-# Proyecto: Nombre del Proyecto
+# maneboom.lol
 
 ![Licence](https://img.shields.io/badge/Licencia-MIT-blue.svg) ![Status](https://img.shields.io/badge/Estado-En%20desarrollo-yellow.svg)
 
